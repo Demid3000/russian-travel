@@ -1,8 +1,9 @@
 .place__paragraph {
     margin: 0;
     padding-bottom: 26px;
+    font-family: Inter;
     font-style: normal;
-    font-weight: 400;
+    font-weight: normal;
     font-size: 18px;
     line-height: 1.63;
     align-self: start;

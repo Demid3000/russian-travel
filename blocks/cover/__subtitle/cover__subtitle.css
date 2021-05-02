@@ -1,4 +1,7 @@
 .cover__subtitle {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
     cursor:default;
     position: relative;
     padding-top: 32px;
